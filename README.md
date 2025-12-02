@@ -192,6 +192,7 @@ These images show the full outage → diagnosis → recovery lifecycle.
 ---
 
 ⭐ What This Project Demonstrates
+
 Cloud Engineering
 
 - Serverless architecture
